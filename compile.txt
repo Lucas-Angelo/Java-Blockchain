@@ -1,0 +1,3 @@
+javac ./ @sources.txt
+javac -d ./build @sources.txt
+jar cvf ./lib/Chain.jar ./build/src/blockchain/Chain.class

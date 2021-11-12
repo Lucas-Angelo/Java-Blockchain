@@ -1,0 +1,7 @@
+./src/App.java
+./src/blockchain/Chain.java
+./src/helpers/Deserialization.java
+./src/helpers/Serialization.java
+./src/helpers/Sha512.java
+./src/mining/Miner.java
+./src/models/Block.java
